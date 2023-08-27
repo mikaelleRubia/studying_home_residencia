@@ -22,7 +22,6 @@ void calculadora(float valor01, float valor02){
 int main(void){
 
     float numero1, numero2;
-    int i = 1;
     cout << "Digite um valori:";
     cin >> numero1;
     cout << "Digite outro valor:";
